@@ -10,7 +10,7 @@ name: "潘学文个人博客"
 url: http://www.panxw.com
 domain: www.panxw.com
 all_categories: [
-["android", "Android开发","/posts/android.html"], 
+["life", "大学生活","/posts/life.html"], 
 ["program", "软件编程","/posts/program.html"],
 ["web", "Web建站","/posts/web.html"], 
 ["linux", "Linux相关","/posts/linux.html"],
